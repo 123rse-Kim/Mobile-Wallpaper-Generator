@@ -1,0 +1,5 @@
+{
+  "name": "Wallpaper Studio (배경화면 스튜디오)",
+  "description": "A mobile-first application to generate high-quality, 9:16 vertical wallpapers based on mood descriptions using Google Gemini API.",
+  "requestFramePermissions": []
+}
